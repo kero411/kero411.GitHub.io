@@ -1,0 +1,33 @@
+header{
+	
+}
+
+.rk-logo {
+  -webkit-box-flex: 0;
+  -webkit-flex: 0 0 100%;
+      -ms-flex: 0 0 100%;
+          flex: 0 0 100%;
+  font-size: 1.375rem;
+  font-weight: 700;
+  letter-spacing: 2.25px;
+  text-align: center;
+  text-transform: uppercase;
+  width: 20%;
+}
+.rk-logo sup {
+  font-size: .5625rem;
+  position: relative;
+  top: -1px;
+}
+
+@media screen and (min-width: 1024px){  /*桌面版*/
+
+}
+
+@media screen and (min-width: 768px){ /*平板版*/
+
+}
+
+@media screen and (min-width: 480px){ /*手机版*/
+
+}
